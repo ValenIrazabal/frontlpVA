@@ -1,2 +1,15 @@
-body { background-color: pink}
+body { background-color: pink;
+     background-image: url(../imagenes/pizza.jpg );
+     }
+
+
 h1 {color: gray}
+
+header {background-color: white;}
+nav {background-color: orange;
+    margin: 35px;
+    padding: 15px;
+    border: 2px solid;
+}
+ section {background-color: pink;}
+aside {background-color: yellow;}
